@@ -4,4 +4,5 @@
 [[redirects]]
   from = "/"
   to = "/pop/we cooked-20260422T131312Z-3-001/we cooked/0909090-90-90-/stink of poop/html/homepage.html"
-  status = 200
+  status = 301
+  force = true
